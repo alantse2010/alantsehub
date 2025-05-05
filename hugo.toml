@@ -1,4 +1,26 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "https://alantsehub.pages.dev/"
+languageCode = "zh-HK"
+title = "AlanTseHub"
 theme = "ananke"
+
+[[menu.main]]
+  name = "首頁"
+  url = "/"
+[[menu.main]]
+  name = "新聞 / News"
+  url = "/news/"
+[[menu.main]]
+  name = "動漫遊戲 / ACG"
+  url = "/acg/"
+[[menu.main]]
+  name = "虛擬主播 / Vtuber"
+  url = "/vtuber/"
+[[menu.main]]
+  name = "隨筆 / Blog"
+  url = "/blog/"
+[[menu.main]]
+  name = "資料庫 / Resources"
+  url = "/resources/"
+[[menu.main]]
+  name = "關於我 / About"
+  url = "/about/"
