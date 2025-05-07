@@ -1,19 +1,21 @@
 ---
 title: "2025 必睇動畫推薦"
-date: 2025-05-09
+date: 2025-05-10
 categories: ["acg"]
 tags: ["動畫", "推薦", "日本"]
+ShowShareButtons: true
 ---
+
 # 2025 年動畫清單
 
-作為 ACG 粉絲，我推薦以下 2025 年新動畫：
+作為一個 ACG 粉絲，我好期待 2025 年嘅新動畫！以下係我嘅 Top 3 推薦：
 
-1. **動畫名** - 改編自人氣漫畫，畫風超正！
-2. **另一部動畫** - 科幻題材，劇情燒腦。
+1. **動畫 A** - 改編自人氣漫畫，劇情燒腦。
+2. **動畫 B** - 奇幻題材，角色超可愛。
+3. **動アニメ C** - 科幻動作，視覺震撼。
 
-睇吓預告片：
-<iframe src="https://www.youtube.com/embed/VIDEO_ID" width="640" height="360"></iframe>
+## 點解要睇？
 
-![動畫海報](images/acg/anime-poster.jpg)
+呢啲動畫唔單止畫風靚，仲有深刻嘅故事。你最期待邊部？喺 X 話畀我知：[@alantse2010](https://x.com/alantse2010)。
 
-> 你最期待邊部動畫？喺 X 同我分享！[@alantse2010](https://x.com/alantse2010)
+> 動漫係我嘅靈感來源！——Alan Tse

@@ -3,6 +3,9 @@ languageCode = "zh-HK"
 title = "AlanTseHub"
 theme = "PaperMod"
 
+[build]
+  buildFuture = true
+  
 [params]
   description = "AlanTseHub - 香港新聞、ACG、Vtuber 同隨筆分享"
   ShowShareButtons = true
