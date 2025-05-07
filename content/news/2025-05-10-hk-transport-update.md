@@ -1,7 +1,7 @@
 ---
 title: "2025 東九龍線最新進展"
 date: 2025-05-10
-categories: ["news","acg"]
+categories: ["news"]
 tags: ["香港", "交通", "基建"]
 ShowToc: true
 ShowShareButtons: true

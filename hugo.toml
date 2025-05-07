@@ -12,6 +12,9 @@ theme = "PaperMod"
   homeInfoParams.Title = "AlanTseHub"
   homeInfoParams.Content = "歡迎來到 AlanTseHub！探索香港新聞、ACG、Vtuber 同隨筆！"
 
+[build]
+  buildFuture = true
+
 [[menu.main]]
   name = "首頁"
   url = "/"
