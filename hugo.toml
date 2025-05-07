@@ -3,14 +3,12 @@ languageCode = "zh-HK"
 title = "AlanTseHub"
 theme = "PaperMod"
 
-[build]
-  buildFuture = true
-  
 [params]
   description = "AlanTseHub - 香港新聞、ACG、Vtuber 同隨筆分享"
   ShowShareButtons = true
   ShowReadingTime = true
   ShowToc = true  # 顯示目錄
+  isCJKLanguage = true
   homeInfoParams.Title = "AlanTseHub"
   homeInfoParams.Content = "歡迎來到 AlanTseHub！探索香港新聞、ACG、Vtuber 同隨筆！"
 
